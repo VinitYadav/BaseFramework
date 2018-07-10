@@ -1,4 +1,4 @@
-package com.base.android.util;
+package com.base.android.network;
 
 import android.app.Activity;
 import android.os.Handler;
@@ -6,6 +6,7 @@ import android.os.Looper;
 import android.support.annotation.NonNull;
 
 import com.base.android.R;
+import com.base.android.util.Utility;
 import com.google.gson.Gson;
 
 import java.io.IOException;
