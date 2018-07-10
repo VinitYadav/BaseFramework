@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseFramework</string>
+
+    <string name="network_error">Please check your network connection</string>
+</resources>
